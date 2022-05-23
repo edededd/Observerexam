@@ -22,7 +22,7 @@ public class App {
         sk.addAerolinea(a2);
         sk.addAerolinea(a3);
         sk.getNot();
-
+        //aa
     }
 
 }
